@@ -1,0 +1,31 @@
+body{
+  background-color: beige;
+}
+nav{
+  border-bottom:1px solid black;
+}
+
+a{
+  color: orangered;
+}
+.p {
+  background: white;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  width: 60%;
+  height: 30%;
+  padding: 2%;
+}
+
+.five{
+background: orangered;
+}
+
+.mora{
+ background-color: mediumvioletred;
+}
+
+footer{
+  border-top:1px solid black;
+}
